@@ -1,9 +1,3 @@
+A simple chatbot built using multiple AI APIs like Groq, Gemini, Hugging Face, Cohere, and Ollama.
 
-Name-AROHI SINGH
-Total number of questions attempted-20 with bonus challenges in qno 16,18,13
-Challenges faced- In the pattern generation problem
-also in age calculator problem faced difficulty in calculating days when input had birthdate,month,year
-
-# Assignment-2
-This repo consists of solutions of the questions given in the assignments
-
+Faced difficulty in implementing openAI api because of unavailable free credits
